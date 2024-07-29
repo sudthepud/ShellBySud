@@ -1,5 +1,5 @@
-# WSH-Sudheesh
-Fully Functional Shell Written in C
+# WASH Shell
+Fully Functional Shell
 - capabilities:
     Basic Bash commands: ls, cd, cat, pwd, etc.
     Opening command line editors: Vim, Nano
