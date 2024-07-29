@@ -1,4 +1,4 @@
-# WASH Shell
+# Shell by Sud
 Fully Functional Shell
 - capabilities:
     Basic Bash commands: ls, cd, cat, pwd, etc.
